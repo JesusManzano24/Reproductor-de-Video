@@ -3,7 +3,21 @@
   <component name="deploymentTargetDropDown">
     <value>
       <entry key="app">
-        <State />
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="BOOT_WITH_SNAPSHOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\IGNITER\.android\avd\Pixel_4a_API_34.avd" />
+                </Key>
+              </deviceKey>
+              <snapshotKey value="C:\Users\IGNITER\.android\avd\Pixel_4a_API_34.avd\snapshots\snap_2024-03-10_22-12-40" />
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-21T23:47:33.277247700Z" />
+        </State>
       </entry>
     </value>
   </component>

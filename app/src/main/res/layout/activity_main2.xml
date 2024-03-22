@@ -1,3 +1,4 @@
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,14 +10,14 @@
       android:id="@+id/video1"
       android:layout_width="match_parent"
       android:layout_height="240dp"
-      android:layout_marginTop="200dp"/>
+      android:layout_marginTop="160dp"/>
 
 
   <TextView
       android:id="@+id/nombre"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:layout_marginTop="450dp"
+      android:layout_marginTop="400dp"
       android:layout_marginStart="90dp"
       android:textColor="#FF33CC"
       android:textAlignment="center"
@@ -28,7 +29,7 @@
       android:layout_width="150dp"
       android:layout_height="55dp"
       android:layout_marginStart="130dp"
-      android:layout_marginTop="490dp"
+      android:layout_marginTop="450dp"
       android:textColor="#FFFF00"
       android:fontFamily="serif"
       android:text="@string/play_pause" />
@@ -37,27 +38,26 @@
       android:layout_width="100dp"
       android:layout_height="55dp"
       android:layout_marginStart="20dp"
-      android:layout_marginTop="490dp"
+      android:layout_marginTop="450dp"
       android:textColor="#FFFF00"
       android:fontFamily="serif"
-      android:text="Atrasar" />
+      android:text="-5's" />
   <Button
       android:id="@+id/Adelantar"
       android:layout_width="1000dp"
       android:layout_height="55dp"
       android:layout_marginStart="290dp"
-      android:layout_marginTop="490dp"
+      android:layout_marginTop="450dp"
       android:textColor="#FFFF00"
       android:fontFamily="serif"
-      android:text="Adelantar" />
-
+      android:text="+5's" />
 
   <Button
       android:id="@+id/peroyano"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="50dp"
-      android:layout_marginTop="540dp"
+      android:layout_marginTop="510dp"
       android:text="1" />
 
   <Button
@@ -65,56 +65,56 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="150dp"
-      android:layout_marginTop="540dp"
+      android:layout_marginTop="510dp"
       android:text="2" />
   <Button
       android:id="@+id/Solia"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="250dp"
-      android:layout_marginTop="540dp"
+      android:layout_marginTop="510dp"
       android:text="3" />
   <Button
       android:id="@+id/Tuyo"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="50dp"
-      android:layout_marginTop="590dp"
+      android:layout_marginTop="560dp"
       android:text="4" />
   <Button
       android:id="@+id/EnergiaBacana"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="150dp"
-      android:layout_marginTop="590dp"
+      android:layout_marginTop="560dp"
       android:text="5" />
   <Button
       android:id="@+id/DondeSeAprendeAQuerer"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="250dp"
-      android:layout_marginTop="590dp"
+      android:layout_marginTop="560dp"
       android:text="6" />
   <Button
       android:id="@+id/Adios"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="50dp"
-      android:layout_marginTop="640dp"
+      android:layout_marginTop="610dp"
       android:text="7" />
   <Button
       android:id="@+id/Tarde"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="150dp"
-      android:layout_marginTop="640dp"
+      android:layout_marginTop="610dp"
       android:text="8" />
   <Button
       android:id="@+id/TeMarquePedo"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_marginStart="250dp"
-      android:layout_marginTop="640dp"
+      android:layout_marginTop="610dp"
       android:text="9" />
 
 </RelativeLayout>
